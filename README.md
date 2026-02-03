@@ -2,7 +2,7 @@
 <DOCTYPE html>
 <html>
 <head>
-  <title>meghana01</title>
+  <title>welcome to github page</title>
 </head>
 <body>
       <h1>welcome to IIT CSM-SVCET website</h1>
